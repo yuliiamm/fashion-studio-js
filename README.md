@@ -4,7 +4,7 @@ The responsive website showcases the work of a photoshoot studio. The website is
 
 ## Demo
 
-Check out this video demo of the MALVA website in action:
+Check out this video demo of the website in action:
 
 - Desktop Size: https://drive.google.com/file/d/14UI7wKALkuiq_m6yW-MlGJOAkqJz_d4_/view?usp=sharing
 
