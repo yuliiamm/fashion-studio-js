@@ -24,5 +24,5 @@ To use the JavaScript file, follow these steps:
 ## Contact
 If you have any questions or feedback about this project, please feel free to get in touch with us using one of the following methods:
 
-Email: ymaksymiuk@gmail.com
+Email: ymaksymiuk@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/yuliia-maksymiuk-0b65aa241/
